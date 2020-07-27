@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814115820057",
+    "firebase_url": "https://dedecustos.firebaseio.com",
+    "project_id": "dedecustos",
+    "storage_bucket": "dedecustos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814115820057:android:96c98d0bf1e04d85341088",
+        "android_client_info": {
+          "package_name": "br.com.pmdpaula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814115820057-5ugnn208682e7oq4bd0c18beng13g7v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJ-olrrFs7KNWOu2UN_rRfupleYUTaeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814115820057-5ugnn208682e7oq4bd0c18beng13g7v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

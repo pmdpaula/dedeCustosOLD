@@ -1,0 +1,26 @@
+{
+  "name": "dedecustos",
+  "version": "1.0.0",
+  "description": "Tabela de Custos Dedé",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm run start --prefix client",
+    "server": "nodemon server/server.js",
+    "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmdpaula/dedeCustos.git"
+  },
+  "author": "Pedro Machado de Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmdpaula/dedeCustos/issues"
+  },
+  "homepage": "https://github.com/pmdpaula/dedeCustos#readme",
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "match-sorter": "^4.2.0"
+  }
+}
