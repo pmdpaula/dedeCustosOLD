@@ -21,6 +21,7 @@
   "homepage": "https://github.com/pmdpaula/dedeCustos#readme",
   "devDependencies": {
     "concurrently": "^5.2.0",
+    "dotenv": "^8.2.0",
     "match-sorter": "^4.2.0"
   }
 }

@@ -1,0 +1,8 @@
+{
+  "host": "45.160.99.25",
+  "user": "postgres",
+  "password": "#abc123#",
+  "database": "ALTERDATA_SHOP",
+  "port": "5432",
+  "searchPath": "['$user','wshop', 'public']"
+}
